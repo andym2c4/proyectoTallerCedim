@@ -1,4 +1,0 @@
-class movil{
-	velocidad	;
-	acelaracion ;
-}
