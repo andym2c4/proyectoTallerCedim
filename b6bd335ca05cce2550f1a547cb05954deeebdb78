@@ -1,0 +1,81 @@
+[33mcommit 258f46e83b91accd9d756c55200e918a649640a6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Andy M.C <andy_24mc@hotmail.com>
+Date:   Sat May 1 21:19:22 2021 -0500
+
+    termine el ejemploTrack, listo para ser enviado al proyecot
+
+[33mcommit 4b5aaad1225ee6e5fcfae6b7dffc1d0be263ee00[m
+Author: Andy M.C <andy_24mc@hotmail.com>
+Date:   Sat May 1 21:18:31 2021 -0500
+
+    borre ejemploTrack
+
+[33mcommit 8a863c073258fcbd3b939c721037b66f6fea6d32[m
+Author: Andy M.C <andy_24mc@hotmail.com>
+Date:   Sat May 1 21:15:12 2021 -0500
+
+    cambio
+
+[33mcommit 9dc9ce3f6693cf53dc7c8593016cb2df080bc343[m
+Merge: 3370183 db778c6
+Author: Caleb Camargo <caleb.camargo.s@uni.pe>
+Date:   Sat May 1 21:08:10 2021 -0500
+
+    listo
+
+[33mcommit 3370183e6ee0e0c6162230c68c4945a0d47e827d[m
+Author: Caleb Camargo <caleb.camargo.s@uni.pe>
+Date:   Sat May 1 21:07:11 2021 -0500
+
+    listo
+
+[33mcommit db778c6192340680cd7ef35e187c7af4d515a012[m
+Merge: edf213c c5e46de
+Author: KandleM6 <77935154+KandleM6@users.noreply.github.com>
+Date:   Sat May 1 20:59:49 2021 -0500
+
+    Esto hice antes xd
+
+[33mcommit edf213c69b739cdcf01fb7bf92e00002fff1e150[m
+Merge: ffb74ab 2309f8a
+Author: KandleM6 <77935154+KandleM6@users.noreply.github.com>
+Date:   Sat May 1 20:57:06 2021 -0500
+
+    Hola
+
+[33mcommit c5e46de8058d919094aa42fc86508a3c32919a79[m
+Merge: b6bd335 2309f8a
+Author: Arnold <franck.noknok@gmail.com>
+Date:   Sat May 1 20:56:05 2021 -0500
+
+    saludos
+
+[33mcommit ffb74abec75834aaace8bd79aa764e8d1f6aa75e[m
+Author: KandleM6 <77935154+KandleM6@users.noreply.github.com>
+Date:   Sat May 1 20:50:30 2021 -0500
+
+    Hola
+
+[33mcommit b6bd335ca05cce2550f1a547cb05954deeebdb78[m
+Author: Arnold <franck.noknok@gmail.com>
+Date:   Sat May 1 20:48:04 2021 -0500
+
+    saludos
+
+[33mcommit 2309f8afaeab7784bf9fd56bc8d1d5b21e8e497b[m
+Author: Andy M.C <andy_24mc@hotmail.com>
+Date:   Sat May 1 20:47:50 2021 -0500
+
+    agregue que se imprima otro mensaje mas
+
+[33mcommit 2415c5dc11c2e1f83a35732139849cee4a23a4bf[m
+Author: Andy M.C <andy_24mc@hotmail.com>
+Date:   Sat May 1 20:43:24 2021 -0500
+
+    creacion del programa base
+
+[33mcommit 028d97907a51d90e74edd4d76ce8e5ea78a275db[m
+Author: ANDY <60638953+andym2c4@users.noreply.github.com>
+Date:   Sat May 1 20:35:38 2021 -0500
+
+    Initial commit
